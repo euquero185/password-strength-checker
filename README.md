@@ -48,11 +48,6 @@ Your password is: strong
 - Always use strong, unique passwords with special characters for sensitive accounts
 - Consider using a password manager for better security
 
-## Language Support
-
-- English
-- Portuguese
-
 ## Requirements
 
 - Python 3.x
