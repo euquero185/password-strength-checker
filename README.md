@@ -57,3 +57,37 @@ Your password is: strong
 - The program will restart after each password check
 - Invalid inputs will cause the program to restart
 - This is a beginner-friendly learning project
+
+---
+
+## Version History
+
+### v2.0 (Current)
+
+**Major Changes:**
+- **GUI Update**: Replaced command-line interface with a modern Tkinter GUI
+  - Clean graphical interface with password input field
+  - Button to trigger password strength check
+  - Visual display of results with dynamic label updates
+- **Improved User Experience**: 
+  - Real-time visual feedback with "Calculating password strength..." message
+  - 3-second delay for better UX during calculation
+  - Ability to check multiple passwords without restarting
+  - Proper label cleanup between checks to prevent UI clutter
+- **Code Structure**: 
+  - Refactored with improved variable management
+  - Better separation of UI elements and logic
+  - Enhanced password checking algorithm with more robust character detection
+
+### v1.0 (Initial Release)
+
+**Features:**
+- Command-line interface for password strength checking
+- Support for English and Portuguese languages
+- Basic password validation based on:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Password length thresholds
+- Four strength levels (Very Weak, Weak, Medium, Strong, Very Strong)
+- Restart functionality after each check
