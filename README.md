@@ -5,7 +5,6 @@ A simple Python password strength checker that validates password security based
 ## Features
 
 - Check password strength in real-time
-- Support for multiple languages (English and Portuguese)
 - Evaluates based on:
   - Uppercase letters
   - Lowercase letters
