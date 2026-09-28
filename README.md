@@ -25,9 +25,8 @@ A simple Python password strength checker that validates password security based
    ```
 
 2. Enter your password when prompted
-3. Select your language (English or Portuguese)
-4. The program will calculate and display your password strength
-5. Choose whether to check another password or exit
+3. The program will calculate and display your password strength
+4. Choose whether to check another password or exit
 
 ## Example
 
